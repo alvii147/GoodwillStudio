@@ -1,4 +1,4 @@
-#sunhacks 2020
+# sunhacks 2020
 ## Inspiration
 **Tourette syndrome (TS)** is a neurological disorder characterized by repetitive, stereotyped, involuntary movements and vocalizations called tics. The disorder is named after Dr. Georges Gilles de la Tourette, the pioneering French neurologist who first described the condition in 1885. Studies show that around 1 out of every 162 children (0.6%) develop some form of TS, but only about 1 out of every 360 children (0.3%) between the ages of 6 and 17 are diagnosed in US, meaning about half the children in US are undiagnosed.
 
