@@ -10,6 +10,7 @@ That's exactly where ***Goodwill Studio*** looks to make a difference!
 
 ## What it does
 ***Goodwill Studio*** is a desktop tool intended to allow users to **detect and censor profane language from voice recordings or microphones**. Using machine learning to extract text from speech and natural language processing to detect profane language, ***Goodwill Studio*** efficiently detects slangs and censors offensive words from speech recordings, in hopes of providing a clean method of communication for people affected by TS and Coprolalia. With audio waveform support and accurate audio transcription, ***Goodwill Studio*** allows users to record audio, export censored clips and provides censored transcription.  
+  
 Click image below for demo video (or click [here](https://youtu.be/s4MnD7pdQyg))
 [![Video_Thumbnail](http://i3.ytimg.com/vi/s4MnD7pdQyg/maxresdefault.jpg)](https://youtu.be/s4MnD7pdQyg)
 ## How I built it
