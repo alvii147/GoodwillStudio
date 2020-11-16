@@ -3,6 +3,8 @@
 **Tourette syndrome (TS)** is a neurological disorder characterized by repetitive, stereotyped, involuntary movements and vocalizations called tics. The disorder is named after Dr. Georges Gilles de la Tourette, the pioneering French neurologist who first described the condition in 1885. Studies show that around 1 out of every 162 children (0.6%) develop some form of TS, but only about 1 out of every 360 children (0.3%) between the ages of 6 and 17 are diagnosed in US, meaning about half the children in US are undiagnosed.
 
 ![Prevalence of Diagnosed Tourette Syndrome](https://www.cdc.gov/ncbddd/tourette/images/tourette-map-prevalence600px.jpg)
+*US National Library of Medicine,* J Dev Behav Pediatr (2015). *[A National Profile of Tourette Syndrome, 2011–2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484726/)*  
+*Centers for Disease Control and Prevention.**[Tourette Syndrome Research](https://www.cdc.gov/ncbddd/tourette/research.html)*  
 
 Most tics may be categorized as either motor tics - involuntary movements caused by spasm-like contractions of muscles, most commonly involving the face, mouth, eyes, head, neck or shoulders - or vocal tics - words and sounds uttered unintentionally. A typical symptom of vocal TS is **Coprolalia**. Coprolalia, the involuntary and uncontrollable use of foul or obscene language, is reported to occur in as much as 60% of people diagnosed with TS. Unfortunately, undiagnosed victims of TS with symptoms of Coprolalia are often subject to public ridicule due to their excessive use of foul language.
 
